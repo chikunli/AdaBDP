@@ -1,7 +1,7 @@
 # AdaBDP
 The AdaBDP procedure codes and data for
 
-An adaptive threshold for outlier detection in high-dimensional settings
+''An adaptive threshold for outlier detection in high-dimensional settings''
 
 Chikun Lia, Baisuo Jin∗, Yuehua Wu, and Mengmei Xi
 
