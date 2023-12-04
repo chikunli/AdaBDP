@@ -1,5 +1,7 @@
 # AdaBDP
-The AdaBDP procedure codes and data for
+The AdaBDP procedure codes and data
+
+for
 
 ''An adaptive threshold for outlier detection in high-dimensional settings''
 
