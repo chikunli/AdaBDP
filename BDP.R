@@ -137,7 +137,3 @@ outlier_det <- function(X, alpha, options){
   if(length(delta) > 0) a_seq[delta] <- 1
   return(list(a_seq, threshold))
 }
-
-#The code has incorporated some references from:
-#Du, L., Guo, X., Sun, W., & Zou, C. (2023). False discovery rate control under general dependence by symmetrized data aggregation. Journal of the American Statistical Association, 118(541), 607-621.
-#Ro, K., Zou, C., Wang, Z., & Yin, G. (2015). Outlier detection for high-dimensional data. Biometrika, 102(3), 589-599.
