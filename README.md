@@ -5,7 +5,7 @@ The AdaBDP procedure codes and data for
 
 Chikun Li, Baisuo Jin∗, Yuehua Wu, and Mengmei Xi
 
-Under revision
+Under review
 
 Includes:
 
