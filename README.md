@@ -15,7 +15,7 @@ Data (in CSV) used for in-depth analysis of the capital flow data of stocks (fro
 
 #The block.cpp file provides a faster way for computing the modified Mahalanobis distance as well as calculating determinants for block diagonal matrices
 
-#A special thanks for the code contributed by:
+#A special thanks to the codes contributed by:
 
 #Du, L., Guo, X., Sun, W., & Zou, C. (2023). False discovery rate control under general dependence by symmetrized data aggregation. Journal of the American Statistical Association, 118(541), 607-621.
 
